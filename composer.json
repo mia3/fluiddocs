@@ -1,0 +1,11 @@
+{
+    "name": "mia3/fluiddocs",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "marc@mia3.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
